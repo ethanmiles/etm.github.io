@@ -7,14 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            Ethan Miles
-tagline:          'A Jekyll theme'
+tagline:         
 description:      'Welcome! I am a Ph.D student in the Government Department at Harvard University.'
 url:              http://ethanmiles.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ethan Miles'
+  url:            https://twitter.com/ethantmiles
 
 paginate:         5
 
