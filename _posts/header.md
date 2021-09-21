@@ -3,4 +3,4 @@ title: "Welcome!"
 layout: post
 ---
 
-![](/Users/ethan/Desktop/Useful/Headshot.jpg)
+![](https://github.com/ethanmiles/ethanmiles.github.io/blob/master/headshot.jpg)
